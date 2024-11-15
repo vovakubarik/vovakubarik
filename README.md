@@ -9,11 +9,6 @@
 - ⚡ Fun fact: I'm Cool
 
 ![Vova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovakubarik&show_icons=true&theme=radical)
-
-![Flutter(https://img.shields.io/badge/★-WebSite-Green)](http://vovakubarik.com/)
-![Flutter(https://img.shields.io/badge/★-Social_Networks-Green)[]
-![Flutter(https://img.shields.io/badge/★-NewGrounds-Green)[]
-![Flutter](https://img.shields.io/badge/★-SoundCloud-Green)[]
 <!---
 vovakubarik/vovakubarik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
