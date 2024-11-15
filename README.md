@@ -10,7 +10,7 @@
 
 ![Vova's GitHub stats](https://github-readme-stats.vercel.app/api?username=vovakubarik&show_icons=true&theme=radical)
 
-![Flutter(https://img.shields.io/badge/★-WebSite-Green) http://vovakubarik.com/]
+![Flutter(https://img.shields.io/badge/★-WebSite-Green)](http://vovakubarik.com/)
 ![Flutter(https://img.shields.io/badge/★-Social_Networks-Green)[]
 ![Flutter(https://img.shields.io/badge/★-NewGrounds-Green)[]
 ![Flutter](https://img.shields.io/badge/★-SoundCloud-Green)[]
